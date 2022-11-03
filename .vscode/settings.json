@@ -1,0 +1,5 @@
+{
+    "solidity.defaultCompiler": "remote",
+    "solidity.compileUsingLocalVersion": "/Users/tkkwon/Github/unitroller-refill/soljson-v0.8.17+commit.8df45f5f.js",
+    "solidity.compileUsingRemoteVersion": "v0.8.17+commit.8df45f5f"
+}
